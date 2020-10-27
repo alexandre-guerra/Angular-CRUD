@@ -26,7 +26,7 @@ const EXAMPLE_DATA: Product[] = [
   { id: 17, name: 'Chlorine', price: 9.99 },
   { id: 18, name: 'Argon', price: 9.99 },
   { id: 19, name: 'Potassium', price: 9.99 },
-  { id: 20, name: 'Calcium', price: 9.99 },
+  { id: 20, name: 'Calcium', price: 9.59 },
 ];
 
 /**
