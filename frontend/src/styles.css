@@ -10,9 +10,27 @@ body {
 }
 
 .red {
-  color: rgb(227, 94, 107);
+  color: #e3536b;
 }
 
 .v-middle {
   vertical-align: middle;
+}
+
+.msg-error {
+  background-color: #e3536b;
+  color: #fff;
+}
+
+.msg-succcess {
+  background-color: #28a745;
+  color: #fff;
+}
+
+.msg-succcess .mat-button-wrapper {
+  color: #fff;
+}
+
+.msg-error .mat-button-wrapper {
+  color: #fff;
 }
