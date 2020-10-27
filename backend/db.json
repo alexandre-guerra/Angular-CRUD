@@ -21,9 +21,19 @@
       "id": 4
     },
     {
-      "name": "Produto de teste",
-      "price": 125.55,
+      "name": "Veio do form",
+      "price": "9.99",
       "id": 5
+    },
+    {
+      "name": "note ibm",
+      "price": "5500",
+      "id": 6
+    },
+    {
+      "name": "SSD",
+      "price": "499.99",
+      "id": 7
     }
   ]
 }
